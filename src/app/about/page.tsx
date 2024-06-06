@@ -1,7 +1,7 @@
-export default function Home(){
+export default function About(){
     return(
         <div className="h-screen pl-2 font-semibold text-md">
-            This is the Home page! Check out the Blog page.
+            This is the About page! Check out the Blog page.
         </div>
     )
 }
